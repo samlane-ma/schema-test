@@ -1,0 +1,8 @@
+[Plugin]
+Module=schematestb.so
+Name=Schema Test B
+Description=Schema Test B
+Authors=Ubuntu Budgie Developers
+Copyright=Copyright © 2018-2019 Ubuntu Budgie Developers
+Website=https://ubuntubudgie.org/
+Icon=mail-unread-symbolic
